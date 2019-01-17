@@ -10,6 +10,8 @@ namespace ShapeGit
     {
         static void Main(string[] args)
         {
+            SquareA sArea = new SquareA();
+            sArea.squareArea();
         }
     }
 }
