@@ -10,6 +10,9 @@ namespace ShapeGit
     {
         static void Main(string[] args)
         {
+            Rhombus r = new Rhombus();
+            r.Area();
+               
         }
     }
 }
