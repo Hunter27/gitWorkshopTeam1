@@ -10,6 +10,10 @@ namespace ShapeGit
     {
         static void Main(string[] args)
         {
+            var triangle = new Triangle();
+
+
         }
     }
+
 }
