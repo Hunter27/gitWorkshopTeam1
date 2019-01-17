@@ -10,8 +10,6 @@ namespace ShapeGit
     {
         static void Main(string[] args)
         {
-             Triangle t = new Triangle();
-            t.Area();
 
 
         }
