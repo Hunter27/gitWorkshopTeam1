@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace ShapeGit
 {
 
-    public class rectangle
+    public class Rectangle
     {
         public void Area()
         {
